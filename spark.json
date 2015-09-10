@@ -2,6 +2,6 @@
   "name": "Messenger",
   "author": "tof on arduino.cc forums",
   "license": "idk",
-  "version": "0.0",
+  "version": "0.0.1",
   "description": "A simple library that handles lines"
 }
