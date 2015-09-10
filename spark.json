@@ -1,0 +1,7 @@
+{
+  "name": "Messenger",
+  "author": "tof on arduino.cc forums",
+  "license": "idk",
+  "version": "0.0",
+  "description": "A simple library that handles lines"
+}
